@@ -1,0 +1,26 @@
+# Edge Vision-Language Models (VLM) for Smart Surveillance
+
+This repository contains the architecture and action plan for a smart surveillance system that bridges embedded hardware with cloud reasoning. The system shifts the focus from raw bounding boxes to semantic, human-readable summaries by pairing edge AI with Vision-Language Models (VLMs).
+
+## Project Action Plan
+
+Building this pipeline requires a systematic approach to edge-to-cloud integration. Here is the recommended sequence to execute the architecture:
+
+### 1. Model Quantization & Edge Deployment
+Train a lightweight object detector (such as **YOLOv8-nano**) on the VIRAT or CityFlow datasets.
+* **Optimization:** Convert the model weights using **TensorRT** or **TFLite**. This ensures it can run inference in real-time on your embedded hardware without overheating or dropping frames.
+
+### 2. Event Filtering & Cloud Routing
+*Note: This phase requires robust edge-to-cloud connectivity.*
+* **Edge Processing:** Write a Python script on the edge device that evaluates bounding box persistence (e.g., a truck remaining in the frame for more than 30 seconds). 
+* **Cloud Routing:** When a notable event occurs, capture a keyframe and route it to an **AWS API Gateway**. 
+* **VLM Inference:** This gateway should trigger an **AWS Lambda** function that passes the image and a specific metadata prompt to your Vision-Language Model.
+
+### 3. Time Series Aggregation
+Instead of discarding the raw bounding box data after the LLM generates a summary, store it for broader system insights.
+* **Storage Strategy:** Append every detection event (class, timestamp, duration) into an **Amazon S3** bucket or a lightweight local **SQLite** database.
+
+### 4. Forecasting & Analytics
+Transform your raw detection logs into actionable business intelligence.
+* **Data Aggregation:** Aggregate your event logs into hourly or daily frequencies. 
+* **Predictive Analytics:** Apply time-series forecasting models (like **Prophet** or **ARIMA**) to this synthesized dataset to predict peak activity windows, which ties your technical architecture directly back to tangible business value.
