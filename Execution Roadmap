@@ -1,0 +1,29 @@
+# Semantic Edge Vision & Forecasting Pipeline
+
+This repository contains the prototype code and evaluation framework for a lightweight, edge-to-cloud computer vision system. The project demonstrates "semantic compression" by deploying quantized vision models at the edge and leveraging Large Language Models (LLMs) alongside time-series forecasting in the cloud.
+
+## System Architecture
+
+* **Edge Device:** Runs a 4-bit quantized vision model to detect objects and identify anomalies.
+* **Semantic Compression:** Transmits lightweight JSON payloads (timestamp, object class, keyframes) only during significant events, drastically reducing bandwidth overhead.
+* **Cloud Backend:** Processes JSON payloads using an LLM to generate narrative summaries.
+* **Forecasting Engine:** Combines historical numerical data (frequencies, durations) with LLM-generated semantic text to predict peak activity windows.
+
+## Implementation Roadmap
+
+| Phase | Timeline | Objectives | Key Deliverables |
+| :--- | :--- | :--- | :--- |
+| **1. Baseline & Metrics** | Weeks 1-2 | Define baseline parameters. Source open-source testing ground (e.g., warehouse or traffic camera dataset). | Evaluation framework tracking Bandwidth (MB/s), Edge Latency (FPS), and LLM token costs. |
+| **2. Skeleton Pipeline** | Weeks 3-4 | Build unoptimized Python end-to-end pipeline. | Object detection script, JSON payload generator, cloud backend integration for LLM ingestion. |
+| **3. Edge Quantization** | Weeks 5-6 | Swap to 4-bit quantized edge model. Implement semantic compression to transmit only on anomalies. | Quantized edge model deployment, bandwidth and latency ablation metrics. |
+| **4. Forecasting Integration** | Weeks 7-8 | Simulate multi-month metadata. Combine numerical data and LLM summaries into the forecasting model. | Documented performance improvements in predicting peak activity windows compared to numerical-only baselines. |
+| **5. Benchmarking & Paper** | Weeks 9-10 | Run full system evaluations. Draft architecture design and ablation studies using 50/10 Pomodoro intervals. | Final metric benchmarks recorded, completed research paper draft. |
+
+## Evaluation Metrics
+
+To validate the "lightweight" and "smart" capabilities of the system, the pipeline must be continuously benchmarked against the following criteria:
+
+* **Network Efficiency:** Bandwidth usage reduction (measured in MB/s).
+* **Edge Performance:** Inference speed and processing latency (measured in FPS).
+* **Cloud Cost:** LLM API token consumption per event payload.
+* **Predictive Accuracy:** Uplift in peak-activity prediction accuracy when combining semantic text with traditional numerical forecasting.
