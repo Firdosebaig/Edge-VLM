@@ -1,0 +1,22 @@
+# Semantic Compression: Local Prototype
+
+This repository contains the local prototype for a semantic compression vision pipeline. It demonstrates how to translate video feeds into lightweight text metadata locally before passing the data to a cloud LLM for analysis, proving the core concept before edge deployment.
+
+## Phase 1: The Local "Hello World"
+Before deploying to embedded edge devices, this phase establishes the proof-of-concept on a local machine.
+* **Set Up the Environment:** Create a clean Python virtual environment and install `opencv-python` to access the local webcam.
+* **Pick a Tiny VLM:** Download a lightweight, open-source Vision-Language Model optimized for limited memory, rather than relying on heavy cloud models. Excellent choices include Moondream2 (1.8 billion parameters) or Hugging Face's SmolVLM, both of which run efficiently on a standard CPU or GPU.
+
+## Phase 2: The Core Data Loop
+This phase simulates an embedded edge camera performing semantic compression via a single Python script.
+* **Capture Keyframes:** Use OpenCV to grab a single webcam frame every 5 to 10 seconds to simulate an event trigger.
+* **Generate Edge Narratives:** Pass the captured frame to the local tiny VLM using a strict prompt: "Describe the main activity in this image in one short sentence."
+* **Log the Metadata:** Append the current time and the model's text output into a local JSON file.
+* **Example Output:** `{"time": "10:21 AM", "event": "A person is sitting at a desk typing."}`
+
+## Phase 3: The Cloud Simulation
+This phase tests the backend analysis component using realistic data generated over a continuous hour of webcam monitoring.
+* **Generate a Dataset:** Leave the webcam running for an hour during normal activity (working, walking around) to populate the JSON log.
+* **Write the Aggregator:** Create a second Python script designed to read the saved JSON file.
+* **Generate the Human Report:** Send only the text block (no images) to an LLM API (such as GPT-4o, Claude, or a local Llama-3 model).
+* **The LLM Prompt:** "You are a security analyst. Review these timestamps and events. Summarize the overall activity for the past hour and flag any long periods of inactivity or unusual behavior."
