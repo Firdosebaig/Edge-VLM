@@ -1,0 +1,4743 @@
+[
+    {
+        "timestamp": "2026-11-06T19:24:20.870122",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 311,
+            "y1": 64,
+            "x2": 636,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:20.956171",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 103,
+            "y1": 66,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:20.956171",
+        "object_class": "person",
+        "confidence": 0.5,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 3,
+            "x2": 221,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.028688",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 132,
+            "y1": 69,
+            "x2": 603,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.174871",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 116,
+            "y1": 68,
+            "x2": 637,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.246293",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 116,
+            "y1": 68,
+            "x2": 637,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.322834",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 151,
+            "y1": 70,
+            "x2": 634,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.458845",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 60,
+            "x2": 545,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.528661",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 31,
+            "x2": 621,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.608994",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 31,
+            "x2": 621,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.689464",
+        "object_class": "person",
+        "confidence": 0.79,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 20,
+            "x2": 631,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.760943",
+        "object_class": "person",
+        "confidence": 0.79,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 14,
+            "x2": 634,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.824620",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 18,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.890200",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 18,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.947832",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 17,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:21.947832",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 256,
+            "y1": 19,
+            "x2": 636,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.039309",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 12,
+            "y1": 21,
+            "x2": 632,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.039309",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 258,
+            "y1": 23,
+            "x2": 635,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.110683",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 257,
+            "y1": 30,
+            "x2": 632,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.110683",
+        "object_class": "person",
+        "confidence": 0.55,
+        "bounding_box": {
+            "x1": 5,
+            "y1": 30,
+            "x2": 630,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.191144",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 49,
+            "y1": 39,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.191144",
+        "object_class": "person",
+        "confidence": 0.5,
+        "bounding_box": {
+            "x1": 270,
+            "y1": 41,
+            "x2": 633,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.271080",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 20,
+            "y1": 48,
+            "x2": 621,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.337112",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 81,
+            "y1": 55,
+            "x2": 634,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.403949",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 81,
+            "y1": 55,
+            "x2": 634,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.462483",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 24,
+            "y1": 48,
+            "x2": 634,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.543104",
+        "object_class": "person",
+        "confidence": 0.77,
+        "bounding_box": {
+            "x1": 40,
+            "y1": 45,
+            "x2": 637,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.618382",
+        "object_class": "person",
+        "confidence": 0.74,
+        "bounding_box": {
+            "x1": 65,
+            "y1": 51,
+            "x2": 636,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.690000",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 80,
+            "y1": 57,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.755834",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 80,
+            "y1": 57,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.822590",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 132,
+            "y1": 57,
+            "x2": 637,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.889314",
+        "object_class": "person",
+        "confidence": 0.77,
+        "bounding_box": {
+            "x1": 59,
+            "y1": 39,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:22.959691",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 29,
+            "y1": 39,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.047608",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 41,
+            "x2": 625,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.121561",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 41,
+            "x2": 625,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.191211",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 7,
+            "y1": 35,
+            "x2": 615,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.260673",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 18,
+            "y1": 17,
+            "x2": 632,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.337857",
+        "object_class": "person",
+        "confidence": 0.8,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 8,
+            "x2": 618,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.406870",
+        "object_class": "person",
+        "confidence": 0.83,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 5,
+            "x2": 625,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.474412",
+        "object_class": "person",
+        "confidence": 0.83,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 5,
+            "x2": 625,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.528707",
+        "object_class": "person",
+        "confidence": 0.81,
+        "bounding_box": {
+            "x1": 14,
+            "y1": 3,
+            "x2": 628,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.606804",
+        "object_class": "person",
+        "confidence": 0.83,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 0,
+            "x2": 627,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.679016",
+        "object_class": "person",
+        "confidence": 0.79,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 2,
+            "x2": 628,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.756028",
+        "object_class": "person",
+        "confidence": 0.84,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 1,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.822265",
+        "object_class": "person",
+        "confidence": 0.84,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 3,
+            "x2": 637,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.891119",
+        "object_class": "person",
+        "confidence": 0.84,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 3,
+            "x2": 637,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:23.957645",
+        "object_class": "person",
+        "confidence": 0.8,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 13,
+            "x2": 631,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.039007",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 26,
+            "y1": 22,
+            "x2": 624,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.111590",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 27,
+            "x2": 616,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.189565",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 17,
+            "x2": 633,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.255705",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 17,
+            "x2": 633,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.322325",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 11,
+            "x2": 539,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.390889",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 17,
+            "x2": 619,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.457466",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 13,
+            "y1": 21,
+            "x2": 610,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.522196",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 13,
+            "y1": 21,
+            "x2": 610,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.578506",
+        "object_class": "person",
+        "confidence": 0.77,
+        "bounding_box": {
+            "x1": 17,
+            "y1": 22,
+            "x2": 609,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.658219",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 23,
+            "x2": 548,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.728592",
+        "object_class": "person",
+        "confidence": 0.79,
+        "bounding_box": {
+            "x1": 16,
+            "y1": 22,
+            "x2": 604,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.803914",
+        "object_class": "person",
+        "confidence": 0.79,
+        "bounding_box": {
+            "x1": 16,
+            "y1": 22,
+            "x2": 604,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.876013",
+        "object_class": "person",
+        "confidence": 0.8,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 17,
+            "x2": 534,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:24.951800",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 9,
+            "y1": 15,
+            "x2": 617,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.023064",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 17,
+            "y1": 16,
+            "x2": 626,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.094671",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 20,
+            "x2": 588,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.161754",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 10,
+            "y1": 22,
+            "x2": 567,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.236832",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 10,
+            "y1": 22,
+            "x2": 567,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.305023",
+        "object_class": "person",
+        "confidence": 0.74,
+        "bounding_box": {
+            "x1": 17,
+            "y1": 26,
+            "x2": 599,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.375987",
+        "object_class": "person",
+        "confidence": 0.74,
+        "bounding_box": {
+            "x1": 10,
+            "y1": 26,
+            "x2": 577,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.454373",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 25,
+            "y1": 28,
+            "x2": 553,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.520083",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 49,
+            "y1": 28,
+            "x2": 546,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.593620",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 49,
+            "y1": 28,
+            "x2": 546,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.666412",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 12,
+            "y1": 28,
+            "x2": 535,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.736693",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 131,
+            "y1": 33,
+            "x2": 542,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.807400",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 30,
+            "x2": 544,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:25.886652",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 208,
+            "y1": 33,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.005816",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 208,
+            "y1": 33,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.083479",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 93,
+            "y1": 37,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.155203",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 93,
+            "y1": 37,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.220944",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 17,
+            "y1": 34,
+            "x2": 627,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.291530",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 9,
+            "y1": 30,
+            "x2": 591,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.357861",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 60,
+            "y1": 30,
+            "x2": 535,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.440638",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 100,
+            "y1": 35,
+            "x2": 544,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.506265",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 100,
+            "y1": 35,
+            "x2": 544,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.577779",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 38,
+            "y1": 38,
+            "x2": 555,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.655948",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 221,
+            "y1": 42,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.722560",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 40,
+            "y1": 39,
+            "x2": 570,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.793462",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 14,
+            "y1": 39,
+            "x2": 525,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.867753",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 24,
+            "y1": 42,
+            "x2": 517,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:26.938596",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 14,
+            "y1": 45,
+            "x2": 629,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.008468",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 14,
+            "y1": 45,
+            "x2": 629,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.078239",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 7,
+            "y1": 48,
+            "x2": 621,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.154939",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 12,
+            "y1": 51,
+            "x2": 568,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.221847",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 12,
+            "y1": 51,
+            "x2": 568,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.292292",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 17,
+            "y1": 54,
+            "x2": 586,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.370794",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 36,
+            "y1": 56,
+            "x2": 638,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.436881",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 11,
+            "y1": 58,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.507054",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 65,
+            "y1": 58,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.574583",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 65,
+            "y1": 58,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.653044",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 54,
+            "y1": 59,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.723871",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 42,
+            "y1": 60,
+            "x2": 633,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.801053",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 35,
+            "y1": 63,
+            "x2": 636,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.869686",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 78,
+            "y1": 66,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:27.938257",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 82,
+            "y1": 65,
+            "x2": 637,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.007892",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 82,
+            "y1": 65,
+            "x2": 637,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.095215",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 3,
+            "x2": 276,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.095215",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 241,
+            "y1": 68,
+            "x2": 638,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.171542",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 3,
+            "x2": 276,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.171542",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 241,
+            "y1": 68,
+            "x2": 638,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.242145",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 254,
+            "y1": 68,
+            "x2": 638,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.242145",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2,
+            "x2": 310,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.388161",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 127,
+            "y1": 70,
+            "x2": 635,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.473678",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 73,
+            "y1": 69,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.540614",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 73,
+            "y1": 69,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.623972",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 70,
+            "y1": 67,
+            "x2": 627,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.693103",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 116,
+            "y1": 66,
+            "x2": 622,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.693103",
+        "object_class": "couch",
+        "confidence": 0.5,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 153,
+            "x2": 130,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.769347",
+        "object_class": "person",
+        "confidence": 0.82,
+        "bounding_box": {
+            "x1": 118,
+            "y1": 65,
+            "x2": 627,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.838795",
+        "object_class": "person",
+        "confidence": 0.8,
+        "bounding_box": {
+            "x1": 80,
+            "y1": 64,
+            "x2": 617,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.904954",
+        "object_class": "person",
+        "confidence": 0.8,
+        "bounding_box": {
+            "x1": 80,
+            "y1": 64,
+            "x2": 617,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:28.977360",
+        "object_class": "person",
+        "confidence": 0.84,
+        "bounding_box": {
+            "x1": 111,
+            "y1": 65,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.057297",
+        "object_class": "person",
+        "confidence": 0.77,
+        "bounding_box": {
+            "x1": 106,
+            "y1": 65,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.113592",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 85,
+            "y1": 66,
+            "x2": 625,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.204823",
+        "object_class": "person",
+        "confidence": 0.8,
+        "bounding_box": {
+            "x1": 46,
+            "y1": 67,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.261129",
+        "object_class": "person",
+        "confidence": 0.8,
+        "bounding_box": {
+            "x1": 46,
+            "y1": 67,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.341997",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 26,
+            "y1": 67,
+            "x2": 633,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.421451",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 47,
+            "y1": 67,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.485979",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 37,
+            "y1": 69,
+            "x2": 622,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.552677",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 52,
+            "y1": 67,
+            "x2": 617,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.623516",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 52,
+            "y1": 67,
+            "x2": 617,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.693011",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 31,
+            "y1": 65,
+            "x2": 617,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.770672",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 65,
+            "x2": 623,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.838140",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 46,
+            "y1": 64,
+            "x2": 614,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.906746",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 82,
+            "y1": 64,
+            "x2": 612,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:29.983929",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 82,
+            "y1": 64,
+            "x2": 612,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.056351",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 115,
+            "y1": 66,
+            "x2": 624,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.127933",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 43,
+            "y1": 65,
+            "x2": 623,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.204597",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 87,
+            "y1": 67,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.261724",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 71,
+            "y1": 67,
+            "x2": 622,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.337953",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 71,
+            "y1": 67,
+            "x2": 615,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.406538",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 71,
+            "y1": 67,
+            "x2": 615,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.483881",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 97,
+            "y1": 65,
+            "x2": 619,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.552671",
+        "object_class": "person",
+        "confidence": 0.79,
+        "bounding_box": {
+            "x1": 112,
+            "y1": 66,
+            "x2": 619,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.625075",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 107,
+            "y1": 67,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.707825",
+        "object_class": "person",
+        "confidence": 0.81,
+        "bounding_box": {
+            "x1": 67,
+            "y1": 67,
+            "x2": 613,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.777120",
+        "object_class": "person",
+        "confidence": 0.81,
+        "bounding_box": {
+            "x1": 67,
+            "y1": 67,
+            "x2": 613,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.850585",
+        "object_class": "person",
+        "confidence": 0.74,
+        "bounding_box": {
+            "x1": 5,
+            "y1": 67,
+            "x2": 621,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:30.929327",
+        "object_class": "person",
+        "confidence": 0.82,
+        "bounding_box": {
+            "x1": 70,
+            "y1": 69,
+            "x2": 636,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.017333",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 69,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.106943",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 80,
+            "y1": 70,
+            "x2": 637,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.198694",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 12,
+            "y1": 66,
+            "x2": 634,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.294973",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 7,
+            "x2": 272,
+            "y2": 351
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.294973",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 98,
+            "y1": 72,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.294973",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 472,
+            "y1": 41,
+            "x2": 639,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.388366",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1,
+            "x2": 281,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.388366",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 473,
+            "y1": 25,
+            "x2": 639,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.388366",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 103,
+            "y1": 73,
+            "x2": 616,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.464623",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 483,
+            "y1": 5,
+            "x2": 639,
+            "y2": 352
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.464623",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 2,
+            "x2": 289,
+            "y2": 352
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.548624",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 483,
+            "y1": 5,
+            "x2": 639,
+            "y2": 352
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.548624",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 2,
+            "x2": 289,
+            "y2": 352
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.632612",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 490,
+            "y1": 1,
+            "x2": 639,
+            "y2": 348
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.632612",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1,
+            "x2": 298,
+            "y2": 352
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.706273",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1,
+            "x2": 299,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.787913",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 497,
+            "y1": 39,
+            "x2": 639,
+            "y2": 347
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.787913",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2,
+            "x2": 305,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.856372",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 1,
+            "x2": 308,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.856372",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 505,
+            "y1": 33,
+            "x2": 639,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.929207",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 1,
+            "x2": 306,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:31.929207",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 510,
+            "y1": 35,
+            "x2": 639,
+            "y2": 346
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.004301",
+        "object_class": "person",
+        "confidence": 0.74,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 1,
+            "x2": 299,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.004301",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 516,
+            "y1": 32,
+            "x2": 639,
+            "y2": 348
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.078117",
+        "object_class": "person",
+        "confidence": 0.74,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 1,
+            "x2": 299,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.078117",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 516,
+            "y1": 32,
+            "x2": 639,
+            "y2": 348
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.180206",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 1,
+            "x2": 299,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.180206",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 517,
+            "y1": 27,
+            "x2": 639,
+            "y2": 351
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.263523",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 520,
+            "y1": 30,
+            "x2": 639,
+            "y2": 351
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.263523",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 1,
+            "x2": 300,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.263523",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 275,
+            "y1": 79,
+            "x2": 617,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.349731",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 1,
+            "x2": 316,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.349731",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 500,
+            "y1": 31,
+            "x2": 639,
+            "y2": 348
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.431607",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1,
+            "x2": 328,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.431607",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 274,
+            "y1": 79,
+            "x2": 623,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.516824",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 42,
+            "y1": 1,
+            "x2": 354,
+            "y2": 353
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.516824",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 458,
+            "y1": 32,
+            "x2": 639,
+            "y2": 350
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.603531",
+        "object_class": "person",
+        "confidence": 0.81,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1,
+            "x2": 366,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.603531",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 453,
+            "y1": 39,
+            "x2": 639,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.682724",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2,
+            "x2": 595,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.682724",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 430,
+            "y1": 1,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.761483",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2,
+            "x2": 595,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.761483",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 430,
+            "y1": 1,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.839670",
+        "object_class": "person",
+        "confidence": 0.84,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 0,
+            "x2": 633,
+            "y2": 358
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.909137",
+        "object_class": "person",
+        "confidence": 0.84,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 0,
+            "x2": 633,
+            "y2": 358
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:32.974715",
+        "object_class": "person",
+        "confidence": 0.9,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 1,
+            "x2": 627,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:33.142422",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 22,
+            "y1": 3,
+            "x2": 480,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:33.213312",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 103,
+            "y1": 76,
+            "x2": 616,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:33.291290",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 103,
+            "y1": 76,
+            "x2": 616,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:33.651900",
+        "object_class": "person",
+        "confidence": 0.84,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 82,
+            "x2": 602,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:33.719820",
+        "object_class": "person",
+        "confidence": 0.84,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 82,
+            "x2": 602,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:33.791235",
+        "object_class": "person",
+        "confidence": 0.79,
+        "bounding_box": {
+            "x1": 104,
+            "y1": 79,
+            "x2": 613,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:33.868808",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 79,
+            "y1": 80,
+            "x2": 615,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:33.935793",
+        "object_class": "couch",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 582,
+            "y1": 208,
+            "x2": 639,
+            "y2": 358
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.007868",
+        "object_class": "couch",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 582,
+            "y1": 208,
+            "x2": 639,
+            "y2": 358
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.077071",
+        "object_class": "couch",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 582,
+            "y1": 206,
+            "x2": 639,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.077071",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 80,
+            "x2": 615,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.160710",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 72,
+            "x2": 607,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.239037",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 5,
+            "y1": 74,
+            "x2": 609,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.318100",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 71,
+            "x2": 598,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.387149",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 72,
+            "x2": 593,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.458732",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 71,
+            "x2": 586,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.534950",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 71,
+            "x2": 586,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.602679",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 9,
+            "y1": 69,
+            "x2": 608,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.668197",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 61,
+            "x2": 617,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.737912",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 57,
+            "x2": 618,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.793507",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 57,
+            "x2": 618,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.860388",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 57,
+            "x2": 613,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.860388",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 58,
+            "x2": 617,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:34.942103",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 58,
+            "x2": 622,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.020747",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 254,
+            "y1": 53,
+            "x2": 633,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.087237",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 278,
+            "y1": 39,
+            "x2": 635,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.153788",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 278,
+            "y1": 39,
+            "x2": 635,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.224336",
+        "object_class": "person",
+        "confidence": 0.88,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 13,
+            "x2": 637,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.303736",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 11,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.373091",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 7,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.447734",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 42,
+            "y1": 5,
+            "x2": 636,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.523379",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 42,
+            "y1": 5,
+            "x2": 636,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.602472",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 9,
+            "x2": 632,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.685259",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 9,
+            "x2": 633,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.757575",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 7,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.884776",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 60,
+            "y1": 4,
+            "x2": 633,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:35.974171",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 8,
+            "x2": 633,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.060908",
+        "object_class": "person",
+        "confidence": 0.8,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 10,
+            "x2": 637,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.142959",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 20,
+            "x2": 633,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.226086",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 20,
+            "x2": 635,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.311119",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 262,
+            "y1": 21,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.397276",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 262,
+            "y1": 21,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.480698",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 255,
+            "y1": 21,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.558522",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 255,
+            "y1": 21,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.640714",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 245,
+            "y1": 22,
+            "x2": 640,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.728968",
+        "object_class": "person",
+        "confidence": 0.77,
+        "bounding_box": {
+            "x1": 247,
+            "y1": 22,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.808590",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 247,
+            "y1": 23,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.876755",
+        "object_class": "person",
+        "confidence": 0.55,
+        "bounding_box": {
+            "x1": 241,
+            "y1": 23,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.951473",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 240,
+            "y1": 24,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:36.951473",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 28,
+            "x2": 613,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.021730",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 240,
+            "y1": 24,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.021730",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 28,
+            "x2": 613,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.076640",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 243,
+            "y1": 24,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.076640",
+        "object_class": "person",
+        "confidence": 0.5,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 30,
+            "x2": 626,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.167041",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 238,
+            "y1": 24,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.167041",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 28,
+            "x2": 625,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.236765",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 240,
+            "y1": 23,
+            "x2": 639,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.305651",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 249,
+            "y1": 22,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.390621",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 247,
+            "y1": 21,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.390621",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 14,
+            "y1": 22,
+            "x2": 625,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.477260",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 21,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.560043",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 21,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.638531",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 20,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.717967",
+        "object_class": "person",
+        "confidence": 0.55,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 22,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.786767",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 24,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.855876",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 248,
+            "y1": 22,
+            "x2": 638,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.919315",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 248,
+            "y1": 22,
+            "x2": 638,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.988904",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 21,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:37.988904",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 252,
+            "y1": 22,
+            "x2": 639,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.063808",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 22,
+            "x2": 639,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.063808",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 16,
+            "y1": 23,
+            "x2": 628,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.164837",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 22,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.164837",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 26,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.238710",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 252,
+            "y1": 23,
+            "x2": 638,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.293420",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 252,
+            "y1": 23,
+            "x2": 638,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.369989",
+        "object_class": "person",
+        "confidence": 0.5,
+        "bounding_box": {
+            "x1": 246,
+            "y1": 23,
+            "x2": 638,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.438771",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 23,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.519920",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 256,
+            "y1": 26,
+            "x2": 637,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.588620",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 14,
+            "y1": 26,
+            "x2": 631,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.668064",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 28,
+            "x2": 633,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.668064",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 259,
+            "y1": 29,
+            "x2": 638,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.736700",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 15,
+            "y1": 31,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.736700",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 258,
+            "y1": 34,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.807057",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 15,
+            "y1": 31,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.807057",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 258,
+            "y1": 34,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.884602",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 41,
+            "x2": 633,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.953576",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 42,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:38.953576",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 255,
+            "y1": 41,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.020494",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 44,
+            "x2": 631,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.020494",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 254,
+            "y1": 42,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.090370",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 44,
+            "x2": 631,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.090370",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 254,
+            "y1": 42,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.170110",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 46,
+            "x2": 632,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.170110",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 44,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.238461",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 263,
+            "y1": 45,
+            "x2": 633,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.238461",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 9,
+            "y1": 44,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.306958",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 46,
+            "x2": 633,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.306958",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 248,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.376305",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 47,
+            "x2": 630,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.376305",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 244,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.452952",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 47,
+            "x2": 630,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.452952",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 244,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.521359",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 240,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.521359",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 48,
+            "x2": 628,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.600905",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 221,
+            "y1": 45,
+            "x2": 633,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.664641",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 45,
+            "x2": 631,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.736988",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 7,
+            "y1": 44,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.736988",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 240,
+            "y1": 44,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.806827",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 7,
+            "y1": 44,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.806827",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 240,
+            "y1": 44,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.875058",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 5,
+            "y1": 44,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.948979",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 46,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:39.948979",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 43,
+            "x2": 628,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.023523",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 45,
+            "x2": 621,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.023523",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 257,
+            "y1": 47,
+            "x2": 632,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.105108",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 43,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.184166",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 44,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.253998",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 46,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.319691",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 46,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.386381",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 9,
+            "y1": 46,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.450924",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 5,
+            "y1": 44,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.528744",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 46,
+            "x2": 633,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.602996",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 44,
+            "x2": 635,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.671534",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 44,
+            "x2": 635,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.755250",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 43,
+            "x2": 632,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.832121",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 236,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.832121",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 44,
+            "x2": 625,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.902924",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 254,
+            "y1": 44,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.902924",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 45,
+            "x2": 631,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:40.973380",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 258,
+            "y1": 44,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.047818",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 258,
+            "y1": 44,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.118737",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 259,
+            "y1": 43,
+            "x2": 634,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.118737",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 43,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.188281",
+        "object_class": "person",
+        "confidence": 0.75,
+        "bounding_box": {
+            "x1": 258,
+            "y1": 43,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.252692",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 45,
+            "x2": 633,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.252692",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 7,
+            "y1": 45,
+            "x2": 631,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.319816",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 250,
+            "y1": 44,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.388253",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 48,
+            "x2": 618,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.471455",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 48,
+            "x2": 618,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.526193",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 42,
+            "x2": 618,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.592521",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 245,
+            "y1": 43,
+            "x2": 633,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.671434",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 246,
+            "y1": 42,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.671434",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 42,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.756512",
+        "object_class": "person",
+        "confidence": 0.82,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 42,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.841722",
+        "object_class": "person",
+        "confidence": 0.82,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 42,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:41.931988",
+        "object_class": "person",
+        "confidence": 0.79,
+        "bounding_box": {
+            "x1": 246,
+            "y1": 44,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.011452",
+        "object_class": "person",
+        "confidence": 0.77,
+        "bounding_box": {
+            "x1": 235,
+            "y1": 42,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.089864",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 250,
+            "y1": 44,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.169017",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 252,
+            "y1": 44,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.240939",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 249,
+            "y1": 43,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.240939",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 44,
+            "x2": 630,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.306475",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 249,
+            "y1": 43,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.306475",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 44,
+            "x2": 630,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.383948",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 44,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.383948",
+        "object_class": "person",
+        "confidence": 0.61,
+        "bounding_box": {
+            "x1": 248,
+            "y1": 43,
+            "x2": 633,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.456129",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 242,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.456129",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 46,
+            "x2": 628,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.531952",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 45,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.531952",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 252,
+            "y1": 44,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.600887",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 259,
+            "y1": 44,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.671219",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 44,
+            "x2": 632,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.750897",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 44,
+            "x2": 632,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.819245",
+        "object_class": "person",
+        "confidence": 0.55,
+        "bounding_box": {
+            "x1": 10,
+            "y1": 45,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.819245",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 242,
+            "y1": 45,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.889639",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.889639",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 7,
+            "y1": 45,
+            "x2": 629,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.967499",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 255,
+            "y1": 45,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:42.967499",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 48,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.036234",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 260,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.109161",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 260,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.194557",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 255,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.194557",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 46,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.275791",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 44,
+            "x2": 631,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.275791",
+        "object_class": "person",
+        "confidence": 0.58,
+        "bounding_box": {
+            "x1": 254,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.354315",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 256,
+            "y1": 45,
+            "x2": 634,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.354315",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 39,
+            "y1": 45,
+            "x2": 628,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.423779",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 44,
+            "x2": 630,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.423779",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.502441",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 46,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.558841",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 46,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.625343",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 47,
+            "x2": 632,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.702572",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 46,
+            "x2": 630,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.702572",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 245,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.769297",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 246,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.769297",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 5,
+            "y1": 46,
+            "x2": 626,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.835827",
+        "object_class": "person",
+        "confidence": 0.65,
+        "bounding_box": {
+            "x1": 246,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.835827",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 5,
+            "y1": 46,
+            "x2": 626,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.904279",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 46,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.904279",
+        "object_class": "person",
+        "confidence": 0.59,
+        "bounding_box": {
+            "x1": 254,
+            "y1": 45,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:43.985739",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 260,
+            "y1": 45,
+            "x2": 634,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.050348",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 248,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.050348",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 12,
+            "y1": 47,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.143652",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 46,
+            "x2": 631,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.143652",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 252,
+            "y1": 45,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.234156",
+        "object_class": "person",
+        "confidence": 0.62,
+        "bounding_box": {
+            "x1": 0,
+            "y1": 44,
+            "x2": 628,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.234156",
+        "object_class": "person",
+        "confidence": 0.52,
+        "bounding_box": {
+            "x1": 245,
+            "y1": 45,
+            "x2": 634,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.302766",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 44,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.302766",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 252,
+            "y1": 44,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.373856",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 44,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.373856",
+        "object_class": "person",
+        "confidence": 0.56,
+        "bounding_box": {
+            "x1": 252,
+            "y1": 44,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.450722",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 248,
+            "y1": 44,
+            "x2": 634,
+            "y2": 354
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.450722",
+        "object_class": "person",
+        "confidence": 0.63,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 47,
+            "x2": 631,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.520926",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 46,
+            "x2": 628,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.520926",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 250,
+            "y1": 44,
+            "x2": 633,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.589455",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 244,
+            "y1": 45,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.589455",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 46,
+            "x2": 619,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.668927",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 45,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.727973",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 45,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.800120",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 46,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.868953",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 3,
+            "y1": 47,
+            "x2": 630,
+            "y2": 357
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.936186",
+        "object_class": "person",
+        "confidence": 0.67,
+        "bounding_box": {
+            "x1": 249,
+            "y1": 46,
+            "x2": 634,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:44.936186",
+        "object_class": "person",
+        "confidence": 0.57,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 47,
+            "x2": 628,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.002634",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 47,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.074719",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 1,
+            "y1": 47,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.152044",
+        "object_class": "person",
+        "confidence": 0.73,
+        "bounding_box": {
+            "x1": 4,
+            "y1": 46,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.220805",
+        "object_class": "person",
+        "confidence": 0.68,
+        "bounding_box": {
+            "x1": 6,
+            "y1": 47,
+            "x2": 632,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.220805",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 47,
+            "x2": 636,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.292300",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 253,
+            "y1": 47,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.292300",
+        "object_class": "person",
+        "confidence": 0.6,
+        "bounding_box": {
+            "x1": 2,
+            "y1": 48,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.358561",
+        "object_class": "person",
+        "confidence": 0.53,
+        "bounding_box": {
+            "x1": 11,
+            "y1": 48,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.358561",
+        "object_class": "person",
+        "confidence": 0.51,
+        "bounding_box": {
+            "x1": 240,
+            "y1": 47,
+            "x2": 635,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.434807",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 50,
+            "x2": 628,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.500045",
+        "object_class": "person",
+        "confidence": 0.64,
+        "bounding_box": {
+            "x1": 8,
+            "y1": 50,
+            "x2": 628,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.708720",
+        "object_class": "person",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 257,
+            "y1": 52,
+            "x2": 633,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.858635",
+        "object_class": "person",
+        "confidence": 0.66,
+        "bounding_box": {
+            "x1": 245,
+            "y1": 54,
+            "x2": 629,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.858635",
+        "object_class": "person",
+        "confidence": 0.55,
+        "bounding_box": {
+            "x1": 7,
+            "y1": 55,
+            "x2": 624,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:45.940350",
+        "object_class": "person",
+        "confidence": 0.69,
+        "bounding_box": {
+            "x1": 254,
+            "y1": 54,
+            "x2": 628,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.024558",
+        "object_class": "person",
+        "confidence": 0.54,
+        "bounding_box": {
+            "x1": 255,
+            "y1": 53,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.024558",
+        "object_class": "person",
+        "confidence": 0.5,
+        "bounding_box": {
+            "x1": 25,
+            "y1": 54,
+            "x2": 625,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.092371",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 247,
+            "y1": 52,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.170569",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 247,
+            "y1": 52,
+            "x2": 631,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.237568",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 241,
+            "y1": 52,
+            "x2": 630,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.316781",
+        "object_class": "person",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 256,
+            "y1": 54,
+            "x2": 626,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.385011",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 257,
+            "y1": 53,
+            "x2": 630,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.455827",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 244,
+            "y1": 53,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.536111",
+        "object_class": "person",
+        "confidence": 0.71,
+        "bounding_box": {
+            "x1": 244,
+            "y1": 53,
+            "x2": 629,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.601812",
+        "object_class": "person",
+        "confidence": 0.74,
+        "bounding_box": {
+            "x1": 236,
+            "y1": 53,
+            "x2": 628,
+            "y2": 355
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.668703",
+        "object_class": "person",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 250,
+            "y1": 54,
+            "x2": 628,
+            "y2": 356
+        }
+    },
+    {
+        "timestamp": "2026-11-06T19:24:46.740157",
+        "object_class": "person",
+        "confidence": 0.78,
+        "bounding_box": {
+            "x1": 251,
+            "y1": 55,
+            "x2": 626,
+            "y2": 355
+        }
+    }
+]
